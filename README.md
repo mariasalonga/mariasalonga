@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming and reading^^
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on new coding projects.
-- 📫 git into it yuh
+- 📫 m.salonga56@gmail.com
 
 <!---
 mariasalonga/mariasalonga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
