@@ -1,6 +1,6 @@
 - 👋 Hello!
 - 🌱 Java, Python, and C.
-- 💞️ I’m looking to collaborate on new coding projects.
+- 💞️ UofT Eng Sci 2T6
 - 📫 maria.salonga@mail.utoronto.ca
 
 <!---
