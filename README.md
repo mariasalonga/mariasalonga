@@ -1,6 +1,6 @@
 - 👋 Hello!
 - 🌱 Java, Python, and C
-- 💞️ UofT Eng Sci 2T6
+- 💞️ uoft eng sci
 - 📫 maria.salonga@mail.utoronto.ca
 
 <!---
